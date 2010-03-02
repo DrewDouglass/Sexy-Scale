@@ -5,7 +5,7 @@ Drew Douglass - http://playground.creatingdrew.com
 
 ##########!!!NOTE!!!##########
 This plugin REQUIRES that the following plugins be included first, in this order:
-http://github.com/zachstronaut/jquery-animate-css-rotate-scale
+http://github.com/zachstronaut/jquery-css-transform
 http://github.com/zachstronaut/jquery-animate-css-rotate-scale
 
 Usage 

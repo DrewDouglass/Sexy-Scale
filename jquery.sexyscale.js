@@ -11,7 +11,7 @@ sexyScale
 
 ##########!!!NOTE!!!##########
 This plugin REQUIRES that the following plugins be included first, in this order:
-http://github.com/zachstronaut/jquery-animate-css-rotate-scale
+http://github.com/zachstronaut/jquery-css-transform
 http://github.com/zachstronaut/jquery-animate-css-rotate-scale
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
